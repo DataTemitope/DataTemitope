@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DataTemitope
+- 👋 Hi, I’m Temitope
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on Data analytics projects
